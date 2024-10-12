@@ -1,0 +1,3 @@
+rootProject.name='ping-pong-kafka'
+include 'ping'
+include 'pong'
